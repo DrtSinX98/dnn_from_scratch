@@ -1,0 +1,2 @@
+Model_Type,K_Layers,D_Neurons,Epochs,Learning_Rate,Batch_Size,Momentum_Beta,Activation,Test_Accuracy,Test_Precision,Test_Recall
+Deep_NN,3,100,100,0.1,64,0.9,ReLU,0.9806,0.9804668536017649,0.9802931120759558
